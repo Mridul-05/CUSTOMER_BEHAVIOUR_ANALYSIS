@@ -1,2 +1,2 @@
-# CUSTOMER_BEHAVIOUR_ANALYSIS
- Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
+# Customer Behavior Analysis — End-to-End Data Analytics Project
+ An end-to-end data analytics project covering data ingestion, exploratory data analysis, data cleaning, SQL querying, and interactive business intelligence dashboards.
