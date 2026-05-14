@@ -39,11 +39,22 @@ Create new column purchase_frequency_days and  column age_group (feature enginee
 
 4.SQL Queries on PostgreSQL
 Ran structured queries to extract business insights directly from the database.
+Example Queries 
+<img width="641" height="187" alt="image" src="https://github.com/user-attachments/assets/cb771656-9b8b-4f9f-86ca-27fb50748b1b" />
+<img width="292" height="177" alt="image" src="https://github.com/user-attachments/assets/c306efaa-8493-4148-aef2-efd6197fcd7f" />
+<img width="1062" height="302" alt="image" src="https://github.com/user-attachments/assets/27a3d551-da3c-408b-b087-8f01001bf5c8" />
+<img width="525" height="300" alt="image" src="https://github.com/user-attachments/assets/277b06d8-c54a-4c11-bee4-2ad2b0678c7b" />
+
+
+
 
 5. Power BI Dashboard
 
 Connected Power BI Desktop directly to PostgreSQL database
 Built an interactive dashboard with slicers, filters, and drill-throughs
+
+<img width="1355" height="745" alt="image" src="https://github.com/user-attachments/assets/f0cf9f57-8b0e-4ec7-8101-bcc44e1007c2" />
+
 
 # Author
 Mridul Chelladurai | mridulchella@gmail.com 
